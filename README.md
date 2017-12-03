@@ -1,5 +1,7 @@
 # ReXi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/erbridge/rexi.svg)](https://greenkeeper.io/)
+
 > A front-end for [Xi Editor](https://github.com/google/xi-editor), built with
 > React and Electron.
 
