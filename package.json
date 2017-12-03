@@ -4,8 +4,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chalk": "^2.3.0",
     "electron-compile": "^6.4.2",
     "electron-devtools-installer": "^2.2.1",
+    "lodash.snakecase": "^4.1.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
